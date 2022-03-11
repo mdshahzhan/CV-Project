@@ -1,0 +1,167 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+body{
+background-color:aliceblue;
+font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    max-width: 1000px;
+    background-color:lightskyblue;
+    margin:0 auto;
+}
+.header{
+
+}
+.profil-image{
+    width:100px;
+    height:120px;
+    border:3px solid white;
+    border-radius:10px;
+    margin:5px;
+    float:left;
+}
+
+.header-bio{
+    float:left;
+    padding:30px;
+    margin-top: 20px;
+}
+
+h1,h2,h3,h4,h5 {
+    color:#111999;
+    line-height: 19px;
+}
+.header-contact{
+    float:right;
+    margin-top:20px;
+    padding:30px;
+}
+.header-contact a{
+    
+    text-decoration:none;
+    padding:30px;
+    color:teal;
+    font-weight: bold;
+}
+.header-contact a:hover{
+    text-decoration:underline;
+    color:tomato;
+}
+.div-clear{
+    clear:both;
+}
+hr{
+    border:3px solid black;
+    width:99.40%;
+    margin:20px auto;
+    border-bottom:none;
+}
+
+#parsonal-section{
+    width:100%;
+
+}
+
+.content{
+    margin:20px;
+}
+.left-div{
+    width:30%;
+    float:left;
+}
+.right-div{
+    width:70%;
+    float:left;
+    color:rgb(204, 7, 188);
+    
+}
+.higher{
+    margin-bottom:20px;
+}
+.secondary{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.hr-div{
+    border:2px solid black;
+    width:99.45%;
+    border-bottom:none;
+    margin:20 auto;
+}
+.passing{
+    width:100%;
+}
+.div-left{
+    width:25%;
+    float:left;
+}
+.div-right{
+    width:45%;
+    float:left;
+}
+h6{
+    color:rgba(235, 43, 10, 0.918);
+    font-size: 12px;
+    line-height: 19px;
+}
+
+/* .hr-choto{
+    border:2px solid black;
+    width:50%;
+    border-bottom:none;
+    
+
+} */
+.language{
+    margin:20px;
+}
+p.len {
+    margin-top: 20px;
+    color:rgb(204, 7, 188);
+}
+
+.bg{
+    background-color:rgba(128, 128, 128, 0.342);
+    padding:5px;
+}
+
+p.befor {
+    margin-top: 20px;
+    margin-left:150px;
+    color:blue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+
+.info-left {
+    width:35%;
+    float:left;
+}
+.centers{
+    width:5%;
+    float:left;
+}
+.info-right{
+
+    width:60%;
+    float:left;
+}
+.passing{
+
+    background-color:lightskyblue;
+
+}
+.line-h{
+    color:rgba(235, 43, 10, 0.918);
+    font-size: 12px;
+    line-height: 20px;
+}
+p{
+
+    color:rgb(204, 7, 188);
+}
